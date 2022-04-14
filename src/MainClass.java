@@ -11,7 +11,7 @@ public class MainClass {
         groupTwo[0] = new Runner("Goga",30, 10.8f);
         groupTwo[1] = new Runner("Sokol",34, 9.9f);
         groupTwo[2] = new Runner("Vlad",40, 15.5f);
-        groupTwo[3] = new Runner("Bayaz",22, 11.5f);
+        groupTwo[3] = new Runner("Bayaz",22, 12.5f);
 
         Team teamOne = new Team(groupOne, "Venera");
         Team teamTwo = new Team(groupTwo, "Mars");
